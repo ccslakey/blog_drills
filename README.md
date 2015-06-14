@@ -18,6 +18,7 @@
 
 4.Had to refer back to earlier excercises for help with logic. Is this bad?
 
+5. So very plain. Go for more reqs next time, take longer if need be
 
 
 ####overall: 3/5 (good speed, very barebones)

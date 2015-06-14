@@ -11,10 +11,15 @@
 
 ##The not so good
 1.Can't edit articles
+
 2.no navbar, partials for edit, view
+
 3.Validations? very funny
+
 4.Had to refer back to earlier excercises for help with logic. Is this bad?
 
 
-*overall: 3/5 (good speed, very barebones)
+
+####overall: 3/5 (good speed, very barebones)
+
 *next one: Take more time, complete some more functionality and icing!

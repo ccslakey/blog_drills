@@ -21,11 +21,6 @@ Rails.application.routes.draw do
   #create an article
   post 'articles', to: 'articles#create'
 
-  get 'sites/index'
-
-  get 'sites/about'
-
-  get 'sites/contact'
   resources :users
 
 end
